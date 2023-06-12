@@ -1,0 +1,36 @@
+
+{
+  "name": "@fcaubianco/react-native-chooser",
+  "version": "1.7.0",
+  "description": "Simple Cross platform SELECT tag for React-Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcaubianco/react-native-chooser.git"
+  },
+  "keywords": [
+    "react-native",
+    "chooser",
+    "select",
+    "picker"
+  ],
+  "author": "Azhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fcaubianco/react-native-chooser.git"
+  },
+  "homepage": "https://github.com/fcaubianco/react-native-chooser.git",
+  "peerDependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "devDependencies": {
+    "react": "16.0.0-alpha.12",
+    "prop-types": "^15.5.10"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
